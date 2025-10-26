@@ -53,6 +53,7 @@ Interactive Visuals: Donut Charts, Bar Charts, Area Charts, and Filter Slicers.
 
 Developed By: Pradeep/itsofficialpradeep
 
-Number of Items (NO OF ITEAMS): 8523
 
-Average Rating (AVG RATING): 3.9
+
+
+
